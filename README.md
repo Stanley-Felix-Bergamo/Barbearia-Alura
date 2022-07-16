@@ -1,4 +1,4 @@
-# Barbearia-Alura
+# Barbearia Alura
 
 
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Barbearia-Alura/">Clicando aki</a></p> 
